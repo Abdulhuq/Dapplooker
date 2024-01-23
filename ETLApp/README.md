@@ -7,6 +7,11 @@ This project provides a web application backend with several REST APIs to perfor
 
 ## Setup
 
+Run following cmd in terminal:
+npm i express axios
+
+
+
 1. Install Node.js:
    - Visit [Node.js website](https://nodejs.org/) and follow the instructions to install Node.js.
 
